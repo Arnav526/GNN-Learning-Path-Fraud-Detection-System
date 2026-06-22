@@ -71,7 +71,7 @@ def build_tex(root: Path) -> Path:
 \\usepackage{enumitem}
 \\setlist{noitemsep}
 \\title{Final Project Report: Leveraging Graph Neural Networks to Uncover Illicit Financial Networks}
-\\author{Akshat Mittal (240086) \\and Aaditya Mukherjee (240006) \\and Daksh Gupta (240317) \\and Nitish Choudhary (240710)}
+\\author{Arnav Gupta (240189)}
 \\date{\\today}
 \\begin{document}
 \\maketitle
