@@ -1,12 +1,5 @@
 # Final Project Report: Leveraging Graph Neural Networks to Uncover Illicit Financial Networks
 
-## Team Members
-
-- Akshat Mittal (Roll No: 240086)
-- Aaditya Mukherjee (Roll No: 240006)
-- Daksh Gupta (Roll No: 240317)
-- Nitish Choudhary (Roll No: 240710)
-
 ## 1. Overall Project Summary
 
 This project addresses illicit transaction detection in cryptocurrency payment flows using graph representation learning. Instead of treating transactions as independent tabular rows, we model the transaction ecosystem as a graph and benchmark multiple Graph Neural Network (GNN) architectures against a tabular baseline.
