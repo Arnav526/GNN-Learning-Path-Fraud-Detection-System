@@ -76,7 +76,7 @@ tectonic reports/final_report.tex --outdir reports
 
 If `tectonic` is not in your `PATH`, run it by absolute path (example):
 ```bash
-'/Users/akshatmittal/Documents/New project/tectonic' reports/final_report.tex --outdir reports
+'/Users/arnav/Documents/New project/tectonic' reports/final_report.tex --outdir reports
 ```
 
 ## 7) Methodology (Logic End-to-End)
