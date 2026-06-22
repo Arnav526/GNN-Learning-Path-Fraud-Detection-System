@@ -1,11 +1,5 @@
 # GNN Final Project: Illicit Financial Transaction Detection
 
-## Team
-- Akshat Mittal (240086)
-- Aaditya Mukherjee (240006)
-- Daksh Gupta (240317)
-- Nitish Choudhary (240710)
-
 ## 1) Project Objective
 This project detects illicit cryptocurrency transactions by modeling the Elliptic dataset as a graph and benchmarking graph neural networks against a strong tabular baseline.
 
